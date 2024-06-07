@@ -1,0 +1,201 @@
+.bottom-navigation-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bottom-navigation-bottom-navigation {
+  width: 375px;
+  height: 85px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bottom-navigation-icons-navigation {
+  top: 11px;
+  left: 24px;
+  width: 328.0000305175781px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-settings {
+  top: 0px;
+  left: 184px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-akariconschatbubble {
+  top: 9.999969482421875px;
+  left: 10.00001049041748px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bottom-navigation-group {
+  top: 3.999974250793457px;
+  left: 2.666698694229126px;
+  width: 26.666667938232422px;
+  height: 24.625699996948242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-vector {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 21px;
+  position: absolute;
+}
+.bottom-navigation-vector1 {
+  top: 19.33338737487793px;
+  left: 5.743168830871582px;
+  width: 10px;
+  height: 5px;
+  position: absolute;
+}
+.bottom-navigation-group72 {
+  top: 0px;
+  left: 92px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-group30 {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-group31 {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-heroiconsoutlinevideocamera {
+  top: 4.999986171722412px;
+  left: 4.9999895095825195px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.bottom-navigation-group30-copy9 {
+  top: 0px;
+  left: 276.0000305175781px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-nounusers8473162 {
+  top: 15.000020980834961px;
+  left: 11.999983787536621px;
+  width: 28px;
+  height: 22.61538314819336px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-nounusers847316 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 22.61538314819336px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-path {
+  top: 2.153825044631958px;
+  left: 18.307689666748047px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.bottom-navigation-path1 {
+  top: 0.00002108213084284216px;
+  left: 6.461519241333008px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.bottom-navigation-path-copy27 {
+  top: 10.769227027893066px;
+  left: 12.923117637634277px;
+  width: 15px;
+  height: 10px;
+  position: absolute;
+}
+.bottom-navigation-path2 {
+  top: 11.846129417419434px;
+  left: -0.000016686915842001326px;
+  width: 22px;
+  height: 11px;
+  position: absolute;
+}
+.bottom-navigation-noun-home1998078 {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-noun-home2976614 {
+  top: 12.000004768371582px;
+  left: 12.000004768371582px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bottom-navigation-shape {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.bottom-navigation-shape1 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}

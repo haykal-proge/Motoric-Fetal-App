@@ -1,0 +1,201 @@
+.group79-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.group79-group79 {
+  width: 325px;
+  height: 151px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(253, 243, 230, 1);
+}
+.group79-maskgroup {
+  top: 0px;
+  left: 0px;
+  width: 325px;
+  height: 151px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(253, 243, 230, 1);
+}
+.group79-maskgroup1 {
+  top: 116px;
+  left: 67px;
+  width: 356.4974670410156px;
+  height: 92.9886703491211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group79-screenshot20220401at4141 {
+  top: -41.669437408447266px;
+  left: 248.5478057861328px;
+  width: 112px;
+  height: 200px;
+  opacity: 0.30;
+  position: absolute;
+}
+.group79-peer-group-meetup {
+  gap: 8px;
+  top: 23.119384765625px;
+  left: 20px;
+  width: 199px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.group79-text {
+  color: rgba(87, 57, 38, 1);
+  height: auto;
+  font-size: 22px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group79-text2 {
+  color: rgba(87, 57, 38, 1);
+  width: 199px;
+  height: auto;
+  opacity: 0.90;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Rubik;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group79-watch-now {
+  width: 138px;
+  height: 39px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group79-text4 {
+  top: 3.880615234375px;
+  color: rgba(254, 130, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group79-icoutlinedaterange {
+  top: 9.880615234375px;
+  left: 84px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.group79-meetup-icon {
+  top: 36px;
+  left: 217px;
+  width: 85.27472686767578px;
+  height: 80px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.group79-layer2 {
+  top: 7.000001907348633px;
+  left: 2px;
+  width: 81.93898010253906px;
+  height: 66.99899291992188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group79-layer1 {
+  top: 0px;
+  left: 0px;
+  width: 81.93898010253906px;
+  height: 66.99899291992188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group79-vector {
+  top: 47.073829650878906px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  opacity: 0.80;
+  position: absolute;
+}
+.group79-vector1 {
+  top: 25.31047248840332px;
+  left: 3.4585800170898438px;
+  width: 36px;
+  height: 42px;
+  position: absolute;
+}
+.group79-maskgroup2 {
+  top: 25.310487747192383px;
+  left: 3.4586029052734375px;
+  width: 36.18620681762695px;
+  height: 41.68850326538086px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group79-screenshot20220401at4142 {
+  top: -36.42987060546875px;
+  left: 51.68719482421875px;
+  width: 64px;
+  height: 116px;
+  opacity: 0.30;
+  position: absolute;
+}
+.group79-group74 {
+  top: 34.332977294921875px;
+  left: 26px;
+  width: 39.644309997558594px;
+  height: 41.70412063598633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group79-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 42px;
+  position: absolute;
+}
+.group79-vector3 {
+  top: -10.33183093873049px;
+  left: 31.12598350900953px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}

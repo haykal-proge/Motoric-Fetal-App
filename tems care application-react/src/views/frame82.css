@@ -1,0 +1,150 @@
+.frame82-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame82-frame82 {
+  gap: 10px;
+  width: 325px;
+  height: 299px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-radius: 20px;
+  background-color: rgba(83, 160, 110, 1);
+}
+.frame82-maskgroup {
+  top: 0px;
+  left: 0px;
+  width: 325px;
+  height: 299px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(85, 160, 111, 1);
+}
+.frame82-maskgroup1 {
+  top: 229.6953582763672px;
+  left: 67px;
+  width: 356.4974670410156px;
+  height: 184.1298828125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame82-screenshot20220401at4141 {
+  top: -82.51094818115234px;
+  left: 248.5478515625px;
+  width: 199px;
+  height: 263px;
+  opacity: 0.30;
+  position: absolute;
+}
+.frame82-peer-group-meetup {
+  gap: 8px;
+  top: 45.77944564819336px;
+  left: 20px;
+  width: 199px;
+  height: 225.73509216308594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.frame82-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 22px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame82-text2 {
+  color: rgba(255, 255, 255, 1);
+  width: 169px;
+  height: auto;
+  opacity: 0.90;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Rubik;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame82-watch-now {
+  width: 138px;
+  height: 39px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame82-text4 {
+  top: 3.880615234375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame82-meditation-icon {
+  top: 87.1258316040039px;
+  left: 217px;
+  width: 80px;
+  height: 123.037353515625px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame82-meditation {
+  top: 0px;
+  left: 0px;
+  width: 80.00011444091797px;
+  height: 123.04009246826172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame82-vector {
+  top: 0.00006156961899250746px;
+  left: 27.877124786376953px;
+  width: 24px;
+  height: 107px;
+  position: absolute;
+}
+.frame82-vector1 {
+  top: 15.85883903503418px;
+  left: 51.00796127319336px;
+  width: 15px;
+  height: 81px;
+  position: absolute;
+}
+.frame82-vector2 {
+  top: 15.851177215576172px;
+  left: 13.806159019470215px;
+  width: 15px;
+  height: 81px;
+  position: absolute;
+}

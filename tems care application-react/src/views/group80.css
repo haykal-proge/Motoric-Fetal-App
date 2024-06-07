@@ -1,0 +1,151 @@
+.group80-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.group80-group80 {
+  width: 325px;
+  height: 157px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group80-group96 {
+  top: 0px;
+  left: 0px;
+  width: 325px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group80-group75 {
+  top: 0px;
+  left: 0px;
+  width: 155px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group80-group77 {
+  top: 0px;
+  left: 0px;
+  width: 155px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(244, 243, 241, 1);
+}
+.group80-text {
+  top: 15px;
+  left: 52px;
+  color: rgba(87, 57, 38, 1);
+  width: 58px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group80-audiologo {
+  top: 19px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.group80-group76 {
+  top: 0px;
+  left: 170px;
+  width: 155px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(244, 243, 241, 1);
+}
+.group80-icroundarticle {
+  top: 19px;
+  left: 19px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.group80-text2 {
+  top: 15px;
+  left: 57px;
+  color: rgba(87, 57, 38, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group80-group771 {
+  top: 78px;
+  left: 1px;
+  width: 324px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 246, 1);
+}
+.group80-maskgroup {
+  top: 0px;
+  left: 0px;
+  width: 324px;
+  height: 79px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 246, 1);
+}
+.group80-faquoteleft {
+  top: 30px;
+  left: 312px;
+  width: 24px;
+  height: 20px;
+  position: absolute;
+}
+.group80-text4 {
+  top: 21px;
+  left: 14.999992370605469px;
+  color: rgba(111, 111, 111, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
